@@ -20,7 +20,7 @@ permissions:
 
 jobs:
   ci:
-    uses: arthur-debert/release/.github/workflows/rust-ci.yml@canary/cf86f28254a6
+    uses: arthur-debert/release/.github/workflows/rust-ci.yml@canary/818c28f37b73
     with:
       binary-name: canary
       bats: true
