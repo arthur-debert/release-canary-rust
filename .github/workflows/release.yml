@@ -34,7 +34,7 @@ permissions:
 
 jobs:
   release:
-    uses: arthur-debert/release/.github/workflows/rust-cli.yml@canary/476220703279
+    uses: arthur-debert/release/.github/workflows/rust-cli.yml@canary/0df4092b434f
     with:
       version: ${{ inputs.version }}
       crates: canaryapp,canary
