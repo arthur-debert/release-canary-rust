@@ -3,7 +3,7 @@ resolver = "2"
 members = ["crates/canaryapp", "crates/canary"]
 
 [workspace.package]
-version = "0.0.25-canary.20260620060127"
+version = "0.0.26-canary.20260620074417"
 edition = "2024"
 description = "Synthetic rust consumer exercised by release's pre-cut canary loop (arthur-debert/release#587). Do not depend on this."
 license = "MIT"
