@@ -4,11 +4,11 @@ version = 4
 
 [[package]]
 name = "canary"
-version = "0.0.26-canary.20260620074417"
+version = "0.0.27-canary.20260620093807"
 dependencies = [
  "canaryapp",
 ]
 
 [[package]]
 name = "canaryapp"
-version = "0.0.26-canary.20260620074417"
+version = "0.0.27-canary.20260620093807"
